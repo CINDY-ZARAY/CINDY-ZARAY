@@ -1,6 +1,6 @@
 ![f](https://user-images.githubusercontent.com/73061080/136416132-248df0a3-53fc-4a70-be66-a405976c90b6.png)
 <h1 align="center">🙋‍♀ ¡HOLA, SOY CINDY!</h1>
-<h3 align="center">Frontend Developer junior,Madrid,Spain</h3>
+<h3 align="center">Frontend Developer junior, Madrid, Spain</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
