@@ -1,6 +1,6 @@
 ###  🙋‍♀ ¡HOLA, SOY CINDY!
-![2](https://user-images.githubusercontent.com/73061080/136361267-b9a027e5-82bb-434d-9ea3-574d2102ea2b.png)
-<!--
+
+![f](https://user-images.githubusercontent.com/73061080/136409023-7b916c43-675f-48df-b06c-9dfa27f84070.png)
 
 <h1 align="center">🙋‍♀ ¡HOLA, SOY CINDY!</h1>
 <h3 align="center">Frontend Developer junior,Madrid,Spain</h3>
