@@ -1,5 +1,5 @@
 <h1 align="center">🙋‍♀ ¡HOLA, SOY CINDY!</h1>
-![f](https://user-images.githubusercontent.com/73061080/136412108-25c4f9bf-a491-4b99-96ab-1e86f620c8e8.png)
+![me](https://user-images.githubusercontent.com/73061080/136412108-25c4f9bf-a491-4b99-96ab-1e86f620c8e8.png)
 <h3 align="center">Frontend Developer junior,Madrid,Spain</h3>
 
 - 🌱 I’m currently learning **JavaScript**
